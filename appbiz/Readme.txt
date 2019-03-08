@@ -6,3 +6,4 @@ Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
 COPYRIGHT 2019
 all rights reserverd
+NO copy of information
